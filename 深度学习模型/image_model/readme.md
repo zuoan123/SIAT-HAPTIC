@@ -1,1 +1,3 @@
-###2020.08.05 add the CNN, CNN_LSTM and VGG16 model for the image classification.
+# 深度学习模型汇总
+## 2020.08.05 
+### 添加CNN, CNN_LSTM and VGG16图像分类模型。
